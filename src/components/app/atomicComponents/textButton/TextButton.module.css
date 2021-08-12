@@ -1,0 +1,10 @@
+.button {
+  padding: 10px;
+  border: none;
+  box-shadow: 1px 1px 6px rgba(0,0,0,0.5);
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+.button:active {
+  transform:  scale(0.96, 0.96);
+}
